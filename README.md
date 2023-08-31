@@ -22,7 +22,7 @@ To use this script, you need to set the `url` variable in the script to the URL 
 Once you have set the `url` variable, you can run the script using the following command:
 
 ```
-python helloomarket_scraper.py
+python scraper.py
 ```
 
 The script will scrape the product data from the Helloomarket website and save it to an Excel file named `Helloo Market Data.xlsx` in the same directory as the script.
