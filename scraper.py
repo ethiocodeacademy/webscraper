@@ -1,5 +1,5 @@
 #August 31, 2023 
-__author__ = 'EthioCodeAcademy - ethiocodeacademy@gmail.com'
+__author__ = 'EthioCodeAcademy - Subscribe, Like, Share!'
 
 from bs4 import BeautifulSoup
 import requests, openpyxl
